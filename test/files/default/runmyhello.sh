@@ -1,2 +1,2 @@
 #!/bin/bash
-python /tmp/hello.py
+nohup python /tmp/hello.py &
